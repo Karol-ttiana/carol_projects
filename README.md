@@ -1,2 +1,19 @@
-# carol_projects
-carol personal projects
+# Engineering Portfolio
+
+Selected hardware, software, embedded systems, VLSI, and signal-processing projects.
+
+## Featured Projects
+
+### 8-bit CMOS ALU — VLSI Design
+
+Full-custom CMOS ALU designed and characterized in Cadence, including hierarchical schematic design, layout, functional simulation, timing analysis, DRC, and LVS verification.
+
+- [Open the VLSI project README](./VLSI/README.md)
+- [View the VLSI report (PDF)](./VLSI/VLSI-report.pdf)
+- [Download the editable VLSI report (DOCX)](./VLSI/VLSI-report.docx)
+
+### SafeBox DTMF Project
+
+Digital signal-processing project for real-time DTMF tone detection and safe-code recognition.
+
+- [Open the SafeBox DTMF project](../SafeBox-DTMF-Project)
