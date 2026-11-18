@@ -11,9 +11,3 @@ Full-custom CMOS ALU designed and characterized in Cadence, including hierarchic
 - [Open the VLSI project README](./VLSI/README.md)
 - [View the VLSI report (PDF)](./VLSI/VLSI-report.pdf)
 - [Download the editable VLSI report (DOCX)](./VLSI/VLSI-report.docx)
-
-### SafeBox DTMF Project
-
-Digital signal-processing project for real-time DTMF tone detection and safe-code recognition.
-
-- [Open the SafeBox DTMF project](../SafeBox-DTMF-Project)
